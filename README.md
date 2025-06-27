@@ -84,6 +84,9 @@ They are particularly useful during Requirement Analysis because:
 
 ![Use Case Diagram](alx-booking-uc.png)
 
+**Download/View the full diagram here:**  
+[Use Case Diagram - Google Drive](https://drive.google.com/file/d/1m78R8iykL-ehMEQKq13tOzD79ks-jWpr/view?usp=sharing)
+
 Actors:
 - Guest
 - Registered User
@@ -97,6 +100,7 @@ Use Cases:
 - Register/Login
 - Manage Listings (Admin)
 - View Bookings
+
 
 ---
 

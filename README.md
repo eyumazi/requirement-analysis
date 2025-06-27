@@ -82,8 +82,7 @@ They are particularly useful during Requirement Analysis because:
 
 **Use Case Diagram for the Booking System**
 
-[![Use Case Diagram](alx-booking-uc.png)
-![Image](https://github.com/user-attachments/assets/b80bec90-e20c-444f-bcb2-86db572d1a08)
+[alx-booking-uc.png](./alx-booking-uc.png)
 
 Actors:
 - Guest
